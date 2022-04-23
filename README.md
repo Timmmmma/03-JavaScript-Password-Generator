@@ -31,8 +31,8 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Link
-Applications deployed site : https://timmmmma.github.io/02-Advanced-CSS-Portfolio/
-Github address : https://github.com/Timmmmma/02-Advanced-CSS-Portfolio
+Applications deployed site : https://timmmmma.github.io/03-JavaScript-Password-Generator/
+Github address : https://github.com/Timmmmma/03-JavaScript-Password-Generator
 
 ## Screenshot
-![image](https://github.com/Timmmmma/02-Advanced-CSS-Portfolio/blob/main/assets/image/Zhentian%20Chen's%20Portfolio.png)
+![image](https://github.com/Timmmmma/03-JavaScript-Password-Generator/blob/main/assets/image/Password%20Generator.png)
